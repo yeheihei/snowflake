@@ -40,4 +40,4 @@ vue build ./animation.vue
 
 #### 使用
 
-vue 组件，拷贝至 vue 工程直接使用,也可自己改造成 html/js
+vue 组件，拷贝至 vue 工程直接使用，也可自己改造成 html/js
